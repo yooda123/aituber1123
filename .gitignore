@@ -1,0 +1,7 @@
+.characterset
+.env
+.venv/
+__pycache__/
+sound_device.txt
+test*.py
+system_prompt.txt
